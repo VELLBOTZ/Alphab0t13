@@ -8,16 +8,15 @@ return `「 *PRICE LIST* 」
 ⬡ 3 MINGGU = ${___minggu}
 ⬡ 1 BULAN = ${_bulan}
 ⬡ PERMANEN = ${_permanen}
-⬡ PERMANEN + USER PREM = ${__permanen}
 
 
 ⬣ PRICE JADIBOT
 
-⬡ JADI BOT PERMANEN 25K
+⬡ GK ADA
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ wa.me/6285722233610
 
 
 NOTE : 
