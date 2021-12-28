@@ -2307,8 +2307,8 @@ let papako = [{
 				}
 			let ch = await getBuffer(chatt)
 koko = `${targetpc}@s.whatsapp.net`
-let content = fs.readFileSync(`image/${IMG-20211228-WA0000}`)
-const media = await alpha.prepareMessage(from, content, MessageType.image, { thumbnail:fs.readFileSync(`image/${IMG-20211228-WA0000}`)})
+let content = fs.readFileSync(`image/${IMG-20211228-WA0000.jpg}`)
+const media = await alpha.prepareMessage(from, content, MessageType.image, { thumbnail:fs.readFileSync(`image/${IMG-20211228-WA0000.jpg}`)})
 let bacotlu = media.message["ephemeralMessage"] ? media.message.ephemeralMessage : media
 let p1 = await alpha.getStatus(sender)
 anunya = process.uptime()
